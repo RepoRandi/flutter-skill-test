@@ -5,7 +5,8 @@ Flutter Skill Test adalah aplikasi mobile yang dibuat dengan Flutter.
 ## Fitur
 
 - **Home**:
-  ![Home](https://github.com/RepoRandi/flutter-skill-test/assets/63716330/8cdeb875-27ae-449c-b558-26cd4dde26cd)
+  <img src="https://github.com/RepoRandi/flutter-skill-test/assets/63716330/8cdeb875-27ae-449c-b558-26cd4dde26cd" alt="Home" width="200"/>
+  <!-- ![Home](https://github.com/RepoRandi/flutter-skill-test/assets/63716330/8cdeb875-27ae-449c-b558-26cd4dde26cd) -->
 - **Soal A**:
   ![Screenshot Soal A](https://your-image-url-here.com/screenshot.png)
   ![Screenshot Soal A](https://your-image-url-here.com/screenshot.png)
@@ -49,4 +50,3 @@ cd flutter skill test
 flutter pub get
 flutter run
 ```
-
