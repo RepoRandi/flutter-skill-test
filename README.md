@@ -23,6 +23,7 @@ Flutter Skill Test adalah aplikasi mobile yang dibuat dengan Flutter.
 
 ## Struktur Direktori
 
+```bash
 lib/
 |- helper/
 |- model/
@@ -31,6 +32,7 @@ lib/
 |- main.dart
 assets/
 |- images
+```
 
 ## Persyaratan
 
