@@ -58,7 +58,7 @@ assets/
 
 ```bash
 git clone https://github.com/RepoRandi/flutter-skill-test.git
-cd flutter skill test
+cd flutter-skill-test
 flutter pub get
 flutter run
 ```
