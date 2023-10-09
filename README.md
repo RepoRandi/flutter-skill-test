@@ -59,7 +59,7 @@ assets/
 ```bash
 git clone https://github.com/RepoRandi/flutter-skill-test.git
 cd flutter-skill-test
-flutter pub get
+dart pub get
 flutter run
 ```
 
